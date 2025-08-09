@@ -1,4 +1,4 @@
-# AI-powered QSAR Modeling Pipeline
+# QSAR Modeling Pipeline
 
 **Colab-ready — RDKit + scikit-learn**
 
@@ -60,12 +60,3 @@ The pipeline is optimized for reproducibility, modularity, and professional pres
 * Integrate into docking or ADMET workflows.
 
 ---
-
-## Reproducibility & Licensing
-
-* Fixed random seeds for repeatable results.
-* **License:** MIT.
-
----
-
-*Flagship, recruiter-ready QSAR project demonstrating senior-level cheminformatics and machine learning expertise.*
