@@ -1,7 +1,8 @@
 #  RDKit-Toolkit
-A compact cheminformatics toolkit built with **RDKit**, showcasing common workflows:
 ---
-##  Features
+A compact cheminformatics toolkit built with **RDKit**, showcasing common workflows
+---
+## Key Features
 
 * Parse molecules from SMILES
 * Calculate key descriptors (MW, LogP, TPSA, etc.)
