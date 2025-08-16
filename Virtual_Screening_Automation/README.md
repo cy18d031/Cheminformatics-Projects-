@@ -5,7 +5,8 @@ We compare a known active drug to other molecules and rank them by **structural 
 
 ---
 
-## Steps
+## Key Features
+
 1. Select a **reference compound** (e.g., Gefitinib for EGFR).  
 2. Fetch candidate molecules from **ChEMBL**.  
 3. Compute **fingerprints** and **Tanimoto similarity**.  
