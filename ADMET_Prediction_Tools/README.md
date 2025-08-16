@@ -4,7 +4,7 @@ This project implements a simple pipeline for predicting **ADMET (Absorption, Di
 
 ---
 
-## Workflow
+## Key Features
 1. **Data Input**: Load molecules using SMILES strings.  
 2. **Descriptor Calculation**: Generate molecular descriptors with RDKit.  
 3. **Model Training**: Train machine learning models to predict ADMET properties.  
@@ -16,5 +16,6 @@ This project implements a simple pipeline for predicting **ADMET (Absorption, Di
 On Binder (recommended):
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cy18d031/Cheminformatics-Projects-/main?filepath=ADMET_Prediction_Tools%2FADMET_Prediction_Tools.py)
+
 
 
