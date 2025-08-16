@@ -15,6 +15,6 @@ We compare a known active drug to other molecules and rank them by **structural 
 ---
 
 ## Run
-You can try it on Binder:  
+On Binder (recommended):
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cy18d031/Cheminformatics-Projects-/main?labpath=Virtual_Screening_Automation%2Fvirtual_screening_automation.py)
