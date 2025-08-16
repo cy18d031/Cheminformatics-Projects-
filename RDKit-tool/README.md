@@ -13,7 +13,7 @@ A compact cheminformatics toolkit built with **RDKit**, showcasing common workfl
 
 ---
 
-## Run
+## Launch on Binder
 
 On Binder (recommended):
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cy18d031/Cheminformatics-Projects-/main?filepath=RDKit-tool%2FRDKit-tool.py)
