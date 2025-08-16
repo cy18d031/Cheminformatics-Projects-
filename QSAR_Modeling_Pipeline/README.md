@@ -22,7 +22,8 @@ The pipeline is optimized for reproducibility, modularity, and professional pres
 
 Click below to run this notebook live in your browser:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/<your-username>/QSAR_Modeling_Pipeline/HEAD?labpath=qsar_pipeline.ipynb)
+https://mybinder.org/v2/gh/cy18d031/Cheminformatics-Projects-/HEAD?labpath=QSAR_Modeling_Pipeline/QSAR_Modeling_Pipeline.py
 
 ---
+
 
