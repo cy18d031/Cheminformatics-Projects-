@@ -12,8 +12,9 @@ This project implements a simple pipeline for predicting **ADMET (Absorption, Di
 
 ---
 
-## Run on Binder
+## Launch on Binder
 On Binder (recommended):
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cy18d031/Cheminformatics-Projects-/main?filepath=ADMET_Prediction_Tools%2FADMET_Prediction_Tools.py)
+
 
