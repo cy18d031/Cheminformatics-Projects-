@@ -20,10 +20,11 @@ The pipeline is optimized for reproducibility, modularity, and professional pres
 
 ## Launch on Binder
 
-Click below to run this notebook live in your browser:
+On Binder (recommended):
 
 https://mybinder.org/v2/gh/cy18d031/Cheminformatics-Projects-/HEAD?labpath=QSAR_Modeling_Pipeline/QSAR_Modeling_Pipeline.py
 
 ---
+
 
 
