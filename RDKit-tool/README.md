@@ -1,4 +1,4 @@
-#  RDKit Mini-Toolkit
+#  RDKit-Toolkit
 ---
 A compact cheminformatics toolkit built with **RDKit**, showcasing common workflows:
 ---
@@ -16,6 +16,6 @@ A compact cheminformatics toolkit built with **RDKit**, showcasing common workfl
 ## ▶️ Run
 
 On Binder (recommended):
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cy18d031/Cheminformatics-Projects-/main?filepath=RDKit-tool%2FRDKit-tool.py)
 
 ---
