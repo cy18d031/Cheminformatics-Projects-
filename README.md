@@ -1,6 +1,6 @@
 # Cheminformatics-Projects-
 
-A collection of beginner-to-intermediate projects in **computational chemistry & drug discovery**, using **Python + RDKit + ChEMBL**.
+A collection of beginner-to-intermediate practice projects in **computational chemistry & drug discovery**, using **Python + RDKit + ChEMBL**.
 
 ## Projects
 
